@@ -1,3 +1,5 @@
+// Java Code for finding the Smallest Element in an Array
+
 public class LargestOfArray {
     
     public static void main(String[] args) {
